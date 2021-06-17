@@ -5,6 +5,16 @@ __pycache__/
 
 # C extensions
 *.so
+#macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.ipynb_checkpoints
+#web crawler down stock data
+Data_ROE_ROA
+Data_股價淨值比
+Data_EPS和PER
+Data_price
 
 # Distribution / packaging
 .Python
